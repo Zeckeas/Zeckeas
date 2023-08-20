@@ -8,10 +8,10 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="">
-    <img align="center" height="30" width="40" alt="react-icon" src="">
-    <img align="center" height="30" width="40" alt="html-icon" src="">
-    <img align="center" height="30" width="40" alt="css-icon" src="">
+    <img align="center" height="30" width="40" alt=""  src="">
+    <img align="center" height="30" width="40" alt="" src="">
+    <img align="center" height="30" width="40" alt="" src="">
+    <img align="center" height="30" width="40" alt="" src="">
    </div>
     
   
