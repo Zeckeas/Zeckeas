@@ -5,15 +5,6 @@
 </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt=""  src="">
-    <img align="center" height="30" width="40" alt="" src="">
-    <img align="center" height="30" width="40" alt="" src="">
-    <img align="center" height="30" width="40" alt="" src="">
-   </div>
-    
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: souzaezequielalves10@gmail.com">
